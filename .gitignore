@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+demo.db
+export_*.csv
+export_*.json
+*.db
