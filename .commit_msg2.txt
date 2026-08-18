@@ -1,0 +1,5 @@
+docs: add real run result screenshot and renderer
+
+- make_screenshot.py: render real run output to PNG
+- demo_result.png: terminal-style real run result
+- .gitignore: ignore demo/export artifacts

@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
 demo.db
+demo_*.json
+demo_*.csv
 export_*.csv
 export_*.json
 *.db
